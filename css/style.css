@@ -16,11 +16,10 @@ section {
 
 .jumbotron {
   height: 100vh;
-  padding-top: 20px;
   min-height: 500px;
   background: rgb(0, 0, 0);
   background: linear-gradient(
-    214deg,
+    90deg,
     rgba(0, 0, 0, 1) 9%,
     rgba(145,28,170,1) 97%
   );
@@ -150,9 +149,10 @@ footer p {
 
 @media (max-width: 500px) {
   .jumbotron {
+    padding-top: 20px;
     background: rgb(0, 0, 0);
     background: linear-gradient(
-      90deg,
+      214deg,
       rgba(0, 0, 0, 1) 9%,
       rgba(145,28,170,1) 97%
     );
