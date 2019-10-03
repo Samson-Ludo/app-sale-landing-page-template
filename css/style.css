@@ -149,7 +149,7 @@ footer p {
 
 @media (max-width: 500px) {
   .jumbotron {
-    padding-top: 20px;
+    padding-top: 100px;
     background: rgb(0, 0, 0);
     background: linear-gradient(
       214deg,
